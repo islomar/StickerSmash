@@ -9,3 +9,4 @@
 - `npx expo install @expo/vector-icons`
   - After installing any library, restart the development server by running the `npx expo start` command.
 - `npx expo install expo-image-picker` 
+- `npx expo install react-native-gesture-handler react-native-reanimated`
