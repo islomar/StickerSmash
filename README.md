@@ -11,6 +11,8 @@
 - `npx expo install expo-image-picker` 
 - `npx expo install react-native-gesture-handler react-native-reanimated`
 - `npx expo install react-native-view-shot expo-media-library`
+- `npm install dom-to-image`
+  - It allows taking a screenshot of any DOM node and turning it into a vector (SVG) or raster (PNG or JPEG) image.
 
 
 ## Notes
