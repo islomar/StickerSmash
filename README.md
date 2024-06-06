@@ -16,7 +16,9 @@
 
 
 ## Notes
+- Learn more: https://docs.expo.dev/tutorial/follow-up/
 - Creating a shared value using the `useSharedValue()` hook has many advantages. It helps to mutate a piece of data and allows running animations based on the current value. A shared value can be accessed and modified using the .value property. It will scale the initial value of scaleImage so that when a user double-taps the sticker, it scales to twice its original size.
 - **Splash screen**:
   - The splash screen is configured by defining a path to the "splash.image" property in the `app.json` file.
   - You can make the splash screen stick around for longer by manually controlling when it is hidden, rather than the default of automatically hiding it as soon as the app is ready.
+- Eventually, when you build the app for the app stores, Expo Application Services (EAS) will take the App icon image and create optimized icon for every device. 
